@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: module.prop
+SHA1-Digest: 70J6TULvaSaSuRURC2dIGEFPQvg=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: JI97C8cW14Pf9ZyAiBmub0r6YO8=
+
+Name: .gitattributes
+SHA1-Digest: SHkPHaIYmkyiSr/8xl5rnMsx024=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: W9c/DllxnfxrlloMGo5ef2mC+dc=
+
+Name: common/system.prop
+SHA1-Digest: Cxyd4RdfI4aNQXmwjgR1P/Q1X38=
+
+Name: common/service.sh
+SHA1-Digest: hCOn0sjc2mEMqqqcb7TFt4BEcVM=
+
+Name: config.sh
+SHA1-Digest: A9jxcwDuLZuaE1YSsuIlON3+yJs=
+
+Name: README.md
+SHA1-Digest: IeOys3h/9NZFy8+0f4jd9YwQyWc=
+
