@@ -2,4 +2,5 @@
 # Example: Change dpi
 # ro.sf.lcd_density=320
 
-ro.sys.fw.bg_apps_limit=10
+ro.sys.fw.bg_apps_limit=50
+ro.vendor.qti.sys.fw.bg_apps_limit=50
