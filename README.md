@@ -12,7 +12,7 @@
 
 ## Changelogs
 - v1.0 - Initial Release.
-- v2.0 - Cached app limits was raised to 60 by default.
+- v2.0 - Cached app limits was raised to 50 by default.
 
 ## Links
 - <a href="https://t.me/EmperorEye1993">Telegram Account</a>
