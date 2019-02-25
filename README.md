@@ -15,7 +15,7 @@
 - v2.0 - Cached app limits was raised to 60 by default.
 
 ## Links
-<a href="https://t.me/EmperorEye1993">Telegram Account</a>
-<a href="https://www.gsmarena.com/tweak_helps_oneplus_3_better_manage_its_6gb_of_ram-blog-18891.php">Reference about the mod</a>
-<a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Latest Stable Magisk</a>
+- <a href="https://t.me/EmperorEye1993">Telegram Account</a>
+- <a href="https://www.gsmarena.com/tweak_helps_oneplus_3_better_manage_its_6gb_of_ram-blog-18891.php">Reference about the mod</a>
+- <a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Latest Stable Magisk</a>
  
