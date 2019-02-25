@@ -1,14 +1,14 @@
 # Cache App Limiter
 ## Description
- • This module helps devices better manage its number of RAM and it benefits the battery life and is intended for the user’s best experience.
- • Based to the official property tweaks provided by OnePlus.
+- This module helps devices better manage its number of RAM and it benefits the battery life and is intended for the user’s best experience.
+- Based to the official property tweaks provided by OnePlus.
 
 ## How does it works?
- • It refers to contrast phone, reduce background apps limit to avoid low memory too early.
- • Provides better memory management.
+- It refers to contrast phone, reduce background apps limit to avoid low memory too early.
+- Provides better memory management.
 
 ## Requirements
- • Magisk v15.0 or higher.
+- Magisk v15.0 or higher.
 
 ## Changelogs
 - v1.0 - Initial Release.
