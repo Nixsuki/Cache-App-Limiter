@@ -1,7 +1,7 @@
 id=CacheAppLimiter
 name=Cache App Limiter
-version=v2.0
-versionCode=2
+version=v3.0
+versionCode=3
 author=EmperorEye1993
 description=This module helps devices better manage its number of RAM and it benefits the battery life and is intended for the user’s best experience.
 minMagisk=1500
