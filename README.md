@@ -8,12 +8,15 @@
 - Provides better memory management.
 
 ## Requirements
-- Magisk v15.0 or higher.
+- Latest Magisk!
 
 ## Changelogs
 - v1.0 - Initial Release.
 - v2.0 - Cached app limits was raised to 50 by default.
 - v3.0 - Updated to treble vendor compliance.
+- v4.0 - Updated to latest Magisk Template
+       - Merged Latest limit implementation
+
 ## Links
 - <a href="https://t.me/EmperorEye1993">Telegram Account</a>
 - <a href="https://www.gsmarena.com/tweak_helps_oneplus_3_better_manage_its_6gb_of_ram-blog-18891.php">Reference about the mod</a>
