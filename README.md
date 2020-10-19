@@ -6,6 +6,7 @@
 ## How does it works?
 - It refers to contrast phone, reduce background apps limit to avoid low memory too early.
 - Provides better memory management.
+- Flash & Forget!.
 
 ## Requirements
 - Latest Magisk!
@@ -14,8 +15,8 @@
 - v1.0 - Initial Release.
 - v2.0 - Cached app limits was raised to 50 by default.
 - v3.0 - Updated to treble vendor compliance.
-- v4.0 - Updated to latest Magisk Template
-       - Merged Latest limit implementation
+- v4.0 - Updated to latest Magisk Template & Merged Latest limit implementation.
+- v5.0 - Adapt Nord Properties.
 
 ## Links
 - <a href="https://t.me/EmperorEye1993">Telegram Account</a>
