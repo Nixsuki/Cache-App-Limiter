@@ -1,4 +1,2 @@
 #Increase cached app limit
-
-ro.vendor.qti.config.swap=false
-ro.vendor.qti.sys.fw.bg_apps_limit=120
+ro.vendor.qti.sys.fw.bg_apps_limit=60
