@@ -40,11 +40,11 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************************"
-  ui_print "* Cache App Limiter                       *"
-  ui_print "* Version: 6.0                            *"
-  ui_print "* Module Installer by: EmperorEye1993     *"
-  ui_print "*******************************************"
+  ui_print "***************************************"
+  ui_print "* Cache App Limiter                   *"
+  ui_print "* Version: 6.1.0                      *"
+  ui_print "* Module Installer by: EmperorEye1993 *"
+  ui_print "***************************************"
 }
 
 ##########################################################################################
