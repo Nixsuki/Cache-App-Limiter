@@ -2,7 +2,7 @@
 
 ### v6.1.0
 
-- Bring back OG OnePlus OG Cached App Limit.
+- Bring back OnePlus OG Cached App Limit properties.
 
 ### v6.0
 
