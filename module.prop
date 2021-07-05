@@ -1,6 +1,6 @@
 id=CacheAppLimiter
 name=Cache App Limiter
-version=v6.0
-versionCode=600
-author=EmperorEye1993
+version=v6.1.0
+versionCode=610
+author=EmperorEye1993 @ xda-developers
 description=This module helps devices better manage its number of RAM and it benefits the battery life and is intended for the user’s best experience.
