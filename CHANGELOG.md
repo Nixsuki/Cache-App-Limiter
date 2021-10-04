@@ -1,5 +1,9 @@
 # Changelog
 
+### v6.2.0
+
+- Update to the latest implementation by OP.
+
 ### v6.1.0
 
 - Bring back OnePlus OG Cached App Limit properties.
